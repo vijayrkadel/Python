@@ -2,7 +2,7 @@
 
 This guide is an overview of five Fundatamental data types:
 
-### Overview
+### Fundamental Data Types
 
 1. int
 2. float
@@ -10,8 +10,8 @@ This guide is an overview of five Fundatamental data types:
 4. complex
 
 ### Immutable Vs Fundamental data types:
-	- all fundamental datatypes are immutable (int/float/complex/str/bool)
-	- one object is created then we cannot change object
-	- if we change the object then new object will create
+1. all fundamental datatypes are immutable (int/float/complex/str/bool)
+2. one object is created then we cannot change object
+3. if we change the object then new object will create
 
 
