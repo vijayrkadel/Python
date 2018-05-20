@@ -4,10 +4,18 @@ This guide is an overview of Python Data Types.
 
 ##Overview
 
-Python has five standard Data Types:
+Python has five Fundatamental data types:
 
-1. Numbers
-2. String
-3. List
-4. Tuple
-5. Dictionary
+1. int
+2. float
+3. complex
+4. complex
+
+### int
+
+1. decimal ( base -10) : 0 to 9  
+2. binary (base -2 )    : O or 1  : ex- ob111 : any numbers start with 0b then python consider this as a binary number
+3. octal : (base -8  :  0 to 7) :  ex-o0111 
+4. hexa decimal: base -16  :  0 to 9 or a-f is allowed ) : 0Xface: 
+
+
