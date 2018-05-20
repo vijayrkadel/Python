@@ -20,7 +20,7 @@
 	- Object-oriented
 	- Procedure-oriented
 	    1. write a function and call number of times 
-	    2.  without object an class  we can write code in python ( procedure oriented concept come in Java from  1.8 called as lambda ) 
+	    2. without object and class we can write code in python ( procedure oriented concept come in Java from  1.8 called as lambda ) 
 
 8. Interpreted : 
    - Java : we need to complie code so java is called as compiled language  
