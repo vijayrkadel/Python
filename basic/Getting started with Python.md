@@ -1,21 +1,22 @@
 # Getting started with Python
 
-Created by: Guido van Rossum
-Create date: 20 FEB 1991
-Created from: c and ABC language
+- Created by: Guido van Rossum
+- Create date: 20 FEB 1991
+- Created from: c and ABC language
+	  
+### Python is:
 
-# Python is:
-1/ Procedure oriented (Scriptig (perl and shell scripting)
-2/ Object oriented ( c++ )
+1. Procedure oriented (Scriptig (perl and shell scripting)
+2. Object oriented ( c++ )
 
-# Python Features
-1/ simple and easy to learn 
-2/ freeware and open source ( run java programme on python: jpyhon) 
-3/ high-level programming 
-4/ Platform independent ( write once and run anywhere: mac/ windows /Linux) 
-5/ Portability ( same as above )
-6/ Dynamically typed 
-7/ Python is 
+### Python Features
+1. simple and easy to learn 
+2. freeware and open source ( run java programme on python: jpyhon) 
+3. high-level programming 
+4. Platform independent ( write once and run anywhere: mac/ windows /Linux) 
+5. Portability ( same as above )
+6. Dynamically typed 
+7. Python is 
 	- Object-oriented
 	- Procedure-oriented (write a function and call typical times )( without having class and object we can write code ( procedure oriented come in Java in 1.8b called as lambda ) )
 
@@ -32,6 +33,6 @@ Created from: c and ABC language
 11/ Extensive Library
 	-import modules 
   
-# Limitations:
-1/ performancce is less because of interpreted programming languages
-2/ not used for mobile applicaion 
+### Limitations:
+1. performancce is less because of interpreted programming languages
+2. not used for mobile applicaion 
