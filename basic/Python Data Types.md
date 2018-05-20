@@ -19,6 +19,7 @@ This guide is an overview of five Fundatamental data types:
 - We all know creation of objects is always a complex task that affect memory utilization and overall performance
 - When Python interpreter start he creates 256 default object.
 - EX 
+---
    1.  x=10
        y=10
        print( id (x)) =12345
@@ -36,7 +37,7 @@ This guide is an overview of five Fundatamental data types:
    4. x=10+20j
       y=10j+20j 
       print(x is y) : false (complex resuing function is not there )
-      
+---      
 ### Reusing same object is define in only following ranges :
 1. int  ==> 0 to 256
 2. bool ==> always
