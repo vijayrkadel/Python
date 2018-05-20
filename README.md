@@ -7,8 +7,8 @@ We will start our journey from
 - Python lanuage fundamentals
 - Python Fundamental Data Types
 - Python Advanced Data Types
-- Multitaking ....OOPS...and many more 
-- Examples 
+- Multitasking ....OOPS...and many more 
+- Examples ( Tree , Graphs ...many more) 
 
 Simple Demo
 ```
