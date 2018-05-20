@@ -20,17 +20,17 @@
 	- Object-oriented
 	- Procedure-oriented (write a function and call typical times )( without having class and object we can write code ( procedure oriented come in Java in 1.8b called as lambda ) )
 
-8/ Interpreted : 
-   Run a code : Java : we need to complie code so java is cales as compiled language  
-   				Python:  we don't need to compile while running code so Python is an Interpreted language (default compiler can run compile code by default )
+8. Interpreted : 
+   Java : we need to complie code so java is called as compiled language  
+   Python:  we don't need to compile while running code so Python is an Interpreted language (default compiler can run compile code by default )
 
-9/ Extensible: native support is there.
+9. Extensible: native support is there.
 	-we can use java code or c code or c++ code in python, no need to change any code. 
 
-10/ Embedded 
+10. Embedded 
 	-we can use python programme in any other language so we can say its Embedded.
 
-11/ Extensive Library
+11. Extensive Library
 	-import modules 
   
 ### Limitations:
