@@ -18,9 +18,9 @@
 6. Dynamically typed 
 7. Python is 
 	- Object-oriented
-	- Procedure-oriented (
-	   -write a function and call number of times 
-	   -without having class and object we can write code ( procedure oriented come in Java in 1.8b called as lambda ) )
+	- Procedure-oriented
+	    1. write a function and call number of times 
+	    2.  without object an class  we can write code in python ( procedure oriented concept come in Java from  1.8 called as lambda ) 
 
 8. Interpreted : 
    - Java : we need to complie code so java is called as compiled language  
