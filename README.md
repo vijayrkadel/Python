@@ -8,7 +8,7 @@ Simple Demo
 
 number=int(input('Enter Number'))
 even=[ i for i in range(number) if i%2==0 ]
-print(even)
 odd=[ i for i in range(number) if i%2!=0 ]
-print(odd)
+print('even',even)
+print('odd',odd)
 '''
