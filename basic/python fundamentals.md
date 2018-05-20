@@ -37,7 +37,7 @@
 1. performancce is less because of interpreted programming languages
 2. not used for mobile applicaion 
 
-# Favours of python:
+### Favours of python:
 
 1. cpython: work with c application 
 2. jpyton: Java application
