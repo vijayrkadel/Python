@@ -6,7 +6,7 @@
 	  
 ### Python is:
 
-1. Procedure oriented (Scriptig (perl and shell scripting)
+1. Procedure oriented (Scriptig (perl and shell scripting))
 2. Object oriented ( c++ )
 
 ### Python Features
@@ -18,7 +18,9 @@
 6. Dynamically typed 
 7. Python is 
 	- Object-oriented
-	- Procedure-oriented (write a function and call typical times )( without having class and object we can write code ( procedure oriented come in Java in 1.8b called as lambda ) )
+	- Procedure-oriented (
+	   -write a function and call number of times 
+	   -without having class and object we can write code ( procedure oriented come in Java in 1.8b called as lambda ) )
 
 8. Interpreted : 
    - Java : we need to complie code so java is called as compiled language  
