@@ -19,14 +19,12 @@ This guide is an overview of five Fundatamental data types:
 - We all know creation of objects is always a complex task that affect memory utilization and overall performance
 - When Python interpreter start he creates 256 default object.
 - EX 
-
-   1. 
----
-   x=10
-       y=10
-       print( id (x)) =12345
-       print( id( y)) =12345
-       print( x is y ) : True (if both are pointing to same memory objects then True (y is a reference for x) 
+Here is mu code
+  x=10
+  y=10
+  print( id (x)) =12345
+  print( id( y)) =12345
+  print( x is y ) : True (if both are pointing to same memory objects then True (y is a reference for x) 
 ---
    2. x=257
       y=257
