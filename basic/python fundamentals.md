@@ -36,3 +36,13 @@
 ### Limitations:
 1. performancce is less because of interpreted programming languages
 2. not used for mobile applicaion 
+
+# Favours of python:
+
+1. cpython: work with c application 
+2. jpyton: Java application
+3. Iron-python: .net framework 
+4. pypy: python for speed ( internally python virtual machine uses JIT compiler(just in time compiler ) )
+5. Ruby python: worked with ruby python
+6. Anaconda python:  for big data 
+7/stackless python: python for concurrency 
