@@ -9,11 +9,9 @@ This guide is an overview of five Fundatamental data types:
 3. complex
 4. complex
 
-### int
-
-1. decimal ( base -10) : 0 to 9  
-2. binary (base -2 )    : O or 1  : ex- ob111 : any numbers start with 0b then python consider this as a binary number
-3. octal : (base -8  :  0 to 7) :  ex-o0111 
-4. hexa decimal: base -16  :  0 to 9 or a-f is allowed ) : 0Xface: 
+### Immutable Vs Fundamental data types:
+	- all fundamental datatypes are immutable (int/float/complex/str/bool)
+	- one object is created then we cannot change object
+	- if we change the object then new object will create
 
 
