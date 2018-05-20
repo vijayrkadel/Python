@@ -20,24 +20,28 @@ This guide is an overview of five Fundatamental data types:
 - When Python interpreter start he creates 256 default object.
 - EX 
 ```python
+  #Ex 1
   x=10
   y=10
   print( id (x)) =12345
   print( id( y)) =12345
   print( x is y ) : True (if both are pointing to same memory objects then True (y is a reference for x) 
-```
-   2. x=257
-      y=257
-      x is y : False (because reusing is applicable for 0-256)
+  
+  #Ex 2
+  x=257
+  y=257
+  x is y : False (because reusing is applicable for 0-256)
    
-   3. x=10.5
-      y=10.5
-      print(x is y) : false (becasue floating point resuing function is not there )
+  #Ex 3 
+  x=10.5
+  y=10.5
+  print(x is y) : false (becasue floating point resuing function is not there )
       
-   4. x=10+20j
-      y=10j+20j 
-      print(x is y) : false (complex resuing function is not there )
----      
+   #Ex 4 
+   x=10+20j
+   y=10j+20j 
+   print(x is y) : false (complex resuing function is not there )
+```      
 ### Reusing same object is define in only following ranges :
 1. int  ==> 0 to 256
 2. bool ==> always
