@@ -138,8 +138,11 @@ print(result) # 150
 
 
 ### Generators
-- memory utilization 
-- time utilization )
+- Memory utilization 
+- Time utilization 
+- Values are not store in memory
+- In list every time object got created but in generator values is generated in the flyand not stored in memory 
+- Generators are best suitable for reading data from large number of large files
 
 ```
 Ex.
@@ -152,5 +155,6 @@ def feb(n):
 value=feb(n)
 for i in value:
     print(i)
+    
 ```
 
