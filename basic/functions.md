@@ -9,8 +9,10 @@ Eg:
 
 ### User Defined Functions
 Q. Write a function to find factorial of given number?
-Ex.
+
 ```
+Ex.
+
 def fact(num):
 result=1
 while num>=1:
@@ -22,6 +24,10 @@ print("The Factorial of",i,"is :",fact(i))
 
 ```
 ### Returning multiple values from a function:
+
+```
+Ex.
+
 def sum_sub(a,b):
  sum=a+b
  sub=a-b
@@ -33,6 +39,8 @@ def sum_sub(a,b):
 Output
 The Sum is : 150
 The Subtraction is : 50 
+
+```
 
 ### lambda Function:
 lambda argument_list : expression
@@ -57,6 +65,7 @@ condition.
 filter(function,sequence)
 
 ```
+Ex.
 
 l=[0,5,10,15,20,25,30]
 l1=list(filter(lambda x:x%2==0,l))
@@ -73,6 +82,7 @@ map() function.
 
 ```
 Ex.
+
 l=[1,2,3,4,5]
 def doubleIt(x):
 return 2*x
@@ -89,6 +99,7 @@ reduce(function,sequence)
 
 ```
 Ex.
+
 from functools import *
 l=[10,20,30,40,50]
 result=reduce(lambda x,y:x+y,l)
@@ -100,6 +111,8 @@ result=reduce(lambda x,y:x+y,l)
 To extent the funtionality of present function we can use decorator
 
 ```
+Ex.
+
 def add(func):
     def inner():
         print('add')
